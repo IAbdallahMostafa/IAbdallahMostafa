@@ -54,19 +54,25 @@ I am a **Full Stack .NET Developer** <img src="https://media.giphy.com/media/WUl
 
 ---
 
-## 📊 GitHub Stats  
+
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=AbdallahMostafaDraz&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
+## 🔥 My GitHub Stats  
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AbdallahMostafaDraz&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
+<div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdallahMostafaDraz&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AbdallahMostafaDraz&show_icons=true&theme=gradient&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AbdallahMostafaDraz&theme=github-dark&hide_border=true&area=true" alt="GitHub Activity Graph" width="98%" />
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbdallahMostafaDraz&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdallahMostafaDraz&layout=compact&theme=gruvbox&hide_border=true" alt="Top Languages" width="48%" />
+
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AbdallahMostafaDraz&theme=github-dark&hide_border=true&area=true" alt="Activity Graph" width="98%" />
 
 </div>
+</div>
+
 
 ---
 
@@ -84,19 +90,3 @@ I am a **Full Stack .NET Developer** <img src="https://media.giphy.com/media/WUl
 
 
 
-<div align="left">
-
-### 🔥 My GitHub Stats  
-
-<div align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api?username=AbdallahMostafaDraz&show_icons=true&theme=gradient&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbdallahMostafaDraz&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdallahMostafaDraz&layout=compact&theme=gruvbox&hide_border=true" alt="Top Languages" width="48%" />
-
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AbdallahMostafaDraz&theme=github-dark&hide_border=true&area=true" alt="Activity Graph" width="98%" />
-
-</div>
-</div>
