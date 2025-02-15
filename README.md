@@ -11,11 +11,11 @@
 
   <h1>
     Hey There, I'm Abdallah Mostafa
-    <img src="https://camo.githubusercontent.com/5ada567a3d623446a8feac9899dbee80d05de5bb61c513314025558c94c93a11/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f323430313134312f73637265656e73686f74732f353438373938322f646576656c6f706572732d6769662d73686f77636173652e676966" width="30px"/>
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
 
   <div align="center">
-    <img src="https://media.giphy.com/media/kbRb4eyCNC0uPnJ6xN/giphy.gif" width="550" height="350"/>
+    <img src="https://cdn.dribbble.com/users/2401141/screenshots/5487982/developers-gif-showcase.gif" width="550" height="350"/>
   </div>
 </div>
 
