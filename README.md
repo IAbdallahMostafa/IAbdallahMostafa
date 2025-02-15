@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/AlaeddineMessadi/AlaeddineMessadi/main/web-developer-chilling.gif" width="200" height="150"/>
 
   <div id="badges">
-    <a href="https://www.linkedin.com/in/AbdallahMostafaDraz/">
+    <a href="https://www.linkedin.com/in/Abdallah-Mostafa-Draz/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
   </div>
