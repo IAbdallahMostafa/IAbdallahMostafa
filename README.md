@@ -18,7 +18,7 @@
 
 
 ---
-
+<br/>
 ## 🚀 About Me  
 
 I am a **Full Stack .NET Developer** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  
@@ -31,6 +31,7 @@ I am a **Full Stack .NET Developer** <img src="https://media.giphy.com/media/WUl
 [![Gmail](https://img.shields.io/badge/Gmail-AbdallahMostafaDraz-red?style=flat&logo=gmail&logoColor=white)](mailto:AbdallahMostafaDraz@gmail.com)
 
 ---
+<br/>
 
 ## 🛠️ Tech Stack  
 
@@ -55,6 +56,7 @@ I am a **Full Stack .NET Developer** <img src="https://media.giphy.com/media/WUl
 ---
 
 
+<br/>
 
 <div align="center">
 
@@ -75,6 +77,7 @@ I am a **Full Stack .NET Developer** <img src="https://media.giphy.com/media/WUl
 
 
 ---
+<br/>
 
 ## 🎯 Fun Fact  
 
