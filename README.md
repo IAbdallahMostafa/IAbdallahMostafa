@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/AlaeddineMessadi/AlaeddineMessadi/main/web-developer-chilling.gif" width="200" height="150"/>
 <div id="badges">
   <a href="https://www.linkedin.com/in/abdallah-mostafa-draz/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://cdn.dribbble.com/users/2401141/screenshots/5487982/developers-gif-showcase.gif" alt="LinkedIn Badge"/>
   </a>
 </div>
 <img src="https://komarev.com/ghpvc/?username=AbdallahMostafaDraz&style=flat-square&color=blue" alt=""/>
