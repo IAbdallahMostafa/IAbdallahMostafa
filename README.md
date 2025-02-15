@@ -16,9 +16,8 @@
   <img src="https://cdn.dribbble.com/users/2401141/screenshots/5487982/developers-gif-showcase.gif" width="550" height="350"/>
 </div>
 
-
 ---
-<br/>
+
 ## 🚀 About Me  
 
 I am a **Full Stack .NET Developer** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  
