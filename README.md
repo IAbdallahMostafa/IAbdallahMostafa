@@ -1,6 +1,6 @@
 <div id="header" align="center">
   <img src="https://raw.githubusercontent.com/AlaeddineMessadi/AlaeddineMessadi/main/web-developer-chilling.gif" width="200" height="150"/>
-</div>
+
 <div id="badges">
   <a href="https://www.linkedin.com/in/AbdallahMostafaDraz/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
