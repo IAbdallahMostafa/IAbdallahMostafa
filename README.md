@@ -4,9 +4,8 @@
   <a href="https://www.linkedin.com/in/abdallah-mostafa-draz/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-<!-- </div>
-<img src="https://komarev.com/ghpvc/?username=Hesham749&style=flat-square&color=blue" alt=""/>
- -->
+</div>
+<img src="https://komarev.com/ghpvc/?username=AbdallahMostafaDraz&style=flat-square&color=blue" alt=""/>
 <h1>
   Hey There , I'm Abdallah Mostafa
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
@@ -49,8 +48,7 @@ I am a Full Stack .NET Developer <img src="https://media.giphy.com/media/WUlplcM
 
 
 ###
-
-<img align="right" height="150" src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif"  />
+<img align="right" height="150" src="https://giphy.com/gifs/devrock-code-edr-escueladevrock-du3J3cXyzhj75IOgvA"  />
 
 ###
 
