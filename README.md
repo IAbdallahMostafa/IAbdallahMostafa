@@ -2,11 +2,12 @@
   <img src="https://raw.githubusercontent.com/AlaeddineMessadi/AlaeddineMessadi/main/web-developer-chilling.gif" width="200" height="150"/>
 </div>
 <div id="badges">
-  <a href="https://www.linkedin.com/in/abdallah-mostafa-draz/">
-    <img src="https://cdn.dribbble.com/users/2401141/screenshots/5487982/developers-gif-showcase.gif" alt="LinkedIn Badge" height="300"/>
+  <a href="https://www.linkedin.com/in/AbdallahMostafaDraz/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
-<img src="https://komarev.com/ghpvc/?username=AbdallahMostafaDraz&style=flat-square&color=blue" alt=""/>
+<img src="https://komarev.com/ghpvc/?username=Hesham749&style=flat-square&color=blue" alt=""/>
+
 <h1>
   Hey There , I'm Abdallah Mostafa
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
