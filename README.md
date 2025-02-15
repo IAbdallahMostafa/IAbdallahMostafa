@@ -1,5 +1,6 @@
 <div id="header" align="center">
   <img src="https://raw.githubusercontent.com/AlaeddineMessadi/AlaeddineMessadi/main/web-developer-chilling.gif" width="200" height="150"/>
+</div>
 <div id="badges">
   <a href="https://www.linkedin.com/in/abdallah-mostafa-draz/">
     <img src="https://cdn.dribbble.com/users/2401141/screenshots/5487982/developers-gif-showcase.gif" alt="LinkedIn Badge" height="300"/>
