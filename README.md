@@ -48,7 +48,7 @@ I am a Full Stack .NET Developer <img src="https://media.giphy.com/media/WUlplcM
 
 
 ###
-<img align="right" height="150" src="https://giphy.com/gifs/devrock-code-edr-escueladevrock-du3J3cXyzhj75IOgvA"  />
+<img align="right" height="150" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3k0eHRldXU5OWdvcXJiMWR1eXMyeGh4M2cxOG9qcXIybDMwdzBwZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/du3J3cXyzhj75IOgvA/giphy.gif"/>
 
 ###
 
