@@ -27,7 +27,7 @@ I am a Full Stack .NET Developer <img src="https://media.giphy.com/media/WUlplcM
 - :seedling: Exploring Technical Content Writing.
 - :zap: In my free time, I solve problems on CodeForces , LeetCode , HackerRank and read tech articles.
 - :mailbox:How to reach me: </br></br>
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/01naveenv/)](https://www.linkedin.com/in/abdallahmostafadraz/)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/01naveenv/)](https://www.linkedin.com/in/abdallah-mostafa-draz/)
 [![](https://img.shields.io/badge/Gmail-AbdallahMostafaDraz-red)](mailto:AbdallahMostafaDraz@gmail.com)
 
 
