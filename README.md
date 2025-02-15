@@ -1,23 +1,25 @@
 <div id="header" align="center">
-  <img src="https://raw.githubusercontent.com/AlaeddineMessadi/AlaeddineMessadi/main/web-developer-chilling.gif" width="200" height="150"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" height="150"/>
 
-<div id="badges">
-  <a href="https://www.linkedin.com/in/AbdallahMostafaDraz/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-</div>
-<img src="https://komarev.com/ghpvc/?username=AbdallahMostafaDraz&style=flat-square&color=blue" alt=""/>
+  <div id="badges">
+    <a href="https://www.linkedin.com/in/AbdallahMostafaDraz/">
+      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
+  </div>
 
-<h1>
-  Hey There , I'm Abdallah Mostafa
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
-<div align="center">
-  <img src="https://cdn.dribbble.com/users/2401141/screenshots/5487982/developers-gif-showcase.gif" width="550" height="350"/>
+  <img src="https://komarev.com/ghpvc/?username=AbdallahMostafaDraz&style=flat-square&color=blue" alt="Profile Views"/>
+
+  <h1>
+    Hey There, I'm Abdallah Mostafa
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  </h1>
+
+  <div align="center">
+    <img src="https://media.giphy.com/media/kbRb4eyCNC0uPnJ6xN/giphy.gif" width="550" height="350"/>
+  </div>
 </div>
 
 ---
-
 ## 🚀 About Me  
 
 I am a **Full Stack .NET Developer** <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  
@@ -30,7 +32,6 @@ I am a **Full Stack .NET Developer** <img src="https://media.giphy.com/media/WUl
 [![Gmail](https://img.shields.io/badge/Gmail-AbdallahMostafaDraz-red?style=flat&logo=gmail&logoColor=white)](mailto:AbdallahMostafaDraz@gmail.com)
 
 ---
-<br/>
 
 ## 🛠️ Tech Stack  
 
@@ -55,7 +56,6 @@ I am a **Full Stack .NET Developer** <img src="https://media.giphy.com/media/WUl
 ---
 
 
-<br/>
 
 <div align="center">
 
@@ -76,7 +76,6 @@ I am a **Full Stack .NET Developer** <img src="https://media.giphy.com/media/WUl
 
 
 ---
-<br/>
 
 ## 🎯 Fun Fact  
 
