@@ -69,7 +69,7 @@ I am a **Full Stack .NET Developer** <img src="https://media.giphy.com/media/WUl
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdallahMostafaDraz&layout=compact&theme=gruvbox&hide_border=true" alt="Top Languages" width="48%" />
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AbdallahMostafaDraz&theme=github-dark&hide_border=true&area=true" alt="Activity Graph" width="98%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AbdallahMostafaDraz&theme=github-dark&hide_border=true&area=true" alt="Activity Graph" width="80%" />
 
 </div>
 </div>
