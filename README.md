@@ -56,9 +56,12 @@ I am a Full Stack .NET Developer <img src="https://media.giphy.com/media/WUlplcM
 
 ---
 
-### :fire: My Stats :
-![](https://github-readme-stats.vercel.app/api?username=AbdallahMostafaDraz&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=AbdallahMostafaDraz=highcontrast&hide_border=false)<br/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdallahMostafaDraz&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+### 🔥 My Stats:
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AbdallahMostafaDraz&theme=radical&show_icons=true&hide_border=false&count_private=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AbdallahMostafaDraz&theme=radical&hide_border=false)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdallahMostafaDraz&layout=compact&theme=radical&hide_border=false)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
