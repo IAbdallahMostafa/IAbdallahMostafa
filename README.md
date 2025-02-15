@@ -56,12 +56,16 @@ I am a Full Stack .NET Developer <img src="https://media.giphy.com/media/WUlplcM
 
 ---
 
-### 🔥 My Stats:
+### 🔥 My GitHub Stats  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AbdallahMostafaDraz&theme=radical&show_icons=true&hide_border=false&count_private=true)
+<div align="center">
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AbdallahMostafaDraz&theme=radical&hide_border=false)
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AbdallahMostafaDraz&theme=onedark&show_icons=true&hide_border=true&count_private=true)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdallahMostafaDraz&layout=compact&theme=radical&hide_border=false)](https://github.com/anuraghazra/github-readme-stats)
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AbdallahMostafaDraz&theme=onedark&hide_border=true)
+
+  [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdallahMostafaDraz&layout=compact&theme=onedark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
+</div>
 
 </div>
