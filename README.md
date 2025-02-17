@@ -60,20 +60,22 @@ I am a **Full Stack .NET Developer** <img src="https://media.giphy.com/media/WUl
 
 <div align="center">
 
-## 🔥 My GitHub Stats  
+## 🔥 GitHub Stats  
 
-<div align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api?username=AbdallahMostafaDraz&show_icons=true&theme=gradient&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
-
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbdallahMostafaDraz&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdallahMostafaDraz&layout=compact&theme=gruvbox&hide_border=true" alt="Top Languages" width="48%" />
-
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AbdallahMostafaDraz&theme=github-dark&hide_border=true&area=true" alt="Activity Graph" width="90%" />
-
-</div>
-</div>
+<p align="center">
+  <a href="https://github.com/AbdallahMostafaDraz">
+    <img src="https://github-readme-stats.vercel.app/api?username=AbdallahMostafaDraz&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" width="49%" />
+  </a>
+  <a href="https://github.com/AbdallahMostafaDraz">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbdallahMostafaDraz&theme=highcontrast&hide_border=true" alt="GitHub Streak" width="49%" />
+  </a>
+  <a href="https://github.com/AbdallahMostafaDraz">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdallahMostafaDraz&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" width="40%" />
+  </a>
+  <a href="https://github.com/AbdallahMostafaDraz">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=AbdallahMostafaDraz&theme=react-dark&hide_border=true&area=true" alt="Activity Graph" width="90%" />
+  </a>
+</p>
 
 
 ---
